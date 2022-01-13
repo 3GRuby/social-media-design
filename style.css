@@ -465,3 +465,10 @@
   height: 23px;
   font-size: 25px;
 }
+
+.main-container{
+  
+    margin: 0 auto;
+    max-width: 1024px;
+  
+}
